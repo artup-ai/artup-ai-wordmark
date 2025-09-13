@@ -10,7 +10,7 @@ This repository establishes the **textual brand identity** for **Artup AI** - fo
 
 **Established:** September 13, 2025 (UTC)  
 **First Public Use Tag:** `v1.0.0` *(to be created immediately after initial push)*  
-**Initial Commit Proof:** `<INITIAL_COMMIT_HASH>` *(replace after first push; mirrored in EVIDENCE.md)*  
+**Initial Commit Proof:** `a4db0292fb997377e02dd8889c686d7b6f869927`  
 **Legal Status:** Public wordmark declaration with zero copyright risks  
 **Strategy:** First-mover advantage for brand name and textual elements  
 **Time Standard:** All dates/times UTC unless specified.
@@ -236,9 +236,9 @@ The "Artup AI" wordmark and brand elements are proprietary and not covered by th
 
 ---
 
-### Evidence Pointers (Populate after first push)
-- Initial commit hash: `<INITIAL_COMMIT_HASH>`
-- Tag `v1.0.0` hash: `<TAG_HASH_OR_SAME>`
+### Evidence Pointers (Updated after first push)
+- Initial commit hash: `a4db0292fb997377e02dd8889c686d7b6f869927`
+- Tag `v1.0.0` hash: `a4db0292fb997377e02dd8889c686d7b6f869927`
 - Evidence ledger index: `EVIDENCE.md`
   
 Quick (optional) future hash command:
