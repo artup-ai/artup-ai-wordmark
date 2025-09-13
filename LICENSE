@@ -1,0 +1,70 @@
+MIT License
+
+Copyright (c) 2025 Artup AI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+WORDMARK, TRADEMARK & BRAND ELEMENTS NOTICE
+
+1. Scope & Ownership
+The "Artup AI" wordmark, brand name, associated brand color definitions (including but not limited to `--artup-primary: #0D0D0D`, accent and secondary colors), typography specifications, taglines, messaging framework, and any unique combinations thereof (collectively the "Brand Elements") are proprietary to Artup AI. They are NOT licensed under the MIT License above. No trademark or brand usage rights are granted except as explicitly described below.
+
+2. License Boundary
+The MIT License applies ONLY to:
+ - Repository structure & organizational conventions
+ - Documentation content expression (text as functional description)
+ - Example CSS variable syntax and non-proprietary implementation patterns
+It does NOT grant rights to create derivative branding that could cause confusion regarding origin, sponsorship, or endorsement.
+
+3. Permitted (Nominative / Fair) Use (No Prior Approval Needed)
+You MAY, without separate permission:
+ - Factually reference the name "Artup AI" in commentary, comparison, or compatibility statements
+ - Quote taglines verbatim for review/discussion with clear attribution
+ - Use CSS variable names in code as-is for integration/theming experiments
+Provided you: (a) do not alter spacing (must remain "Artup AI"), (b) do not imply partnership or endorsement, (c) do not present the Brand Elements as your own.
+
+4. Prohibited Without Written Consent
+You MAY NOT:
+ - Register or attempt to register trademarks containing or confusingly similar to "Artup AI"
+ - Use the wordmark prominently in product branding, app icons, domain squatting, or marketing headers
+ - Create derivative modified forms (e.g., "ArtUpAI", "Artup-AI") for brand presentation
+ - Bundle the Brand Elements into commercial template libraries implying reuse rights
+ - Imply sponsorship, partnership, certification, or official status
+
+5. Evidence Chain & Priority Claim
+This repository, together with `CHANGELOG.md`, `BRAND_GUIDELINES.md`, and future `EVIDENCE.md`, functions as an evidence ledger establishing: (a) first public use, (b) continuous development intent, and (c) scope of textual brand definition for future trademark filings. Commit hashes and tagged releases strengthen priority documentation.
+
+6. Primary Color Definition
+The primary brand color is Deep Black `#0D0D0D`, selected to establish a neutral core system supporting adaptive theming, accessibility contrast flexibility, and future extensible accent palette development (e.g., Electric Blue / Bright Purple).
+
+7. Disclaimer
+Nothing herein shall be construed as granting implicit trademark rights. All goodwill derived from legitimate nominative use accrues solely to Artup AI. Unauthorized or abusive use may result in enforcement actions under applicable trademark and unfair competition laws.
+
+8. Contact
+For brand usage inquiries, partnership proposals, or licensing questions:
+Email: legal@artup.ai
+Repository: https://github.com/artup-ai/artup-ai-wordmark
+Evidence index: See EVIDENCE.md
+
+9. Additional Policy Reference
+See `TRADEMARK_POLICY.md` in this repository for detailed permitted, restricted, and prohibited usage definitions, request workflow, and evidence chain structure.
+
+Established: September 13, 2025
